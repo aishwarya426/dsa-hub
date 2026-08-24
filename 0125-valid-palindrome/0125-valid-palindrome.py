@@ -13,7 +13,5 @@ class Solution:
                 j-=1
             elif snew[i]!=snew[j]:
                 return False
-            
-        print(snew)
         return True
         
