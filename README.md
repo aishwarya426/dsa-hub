@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aishwarya426/dsa-hub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
