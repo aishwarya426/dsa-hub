@@ -18,8 +18,6 @@ class Solution:
                     stack.append(a+b)
                 elif tokens[i]=="-":
                     stack.append(a-b)
-                
-
         return (stack[-1])
 
 
