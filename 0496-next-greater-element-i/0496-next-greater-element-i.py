@@ -5,17 +5,10 @@ class Solution:
             maxnum=-1
             for j in range (len(nums2)):
                 if nums1[i]==nums2[j]:
-                    
-                    if j+1==len(nums2):
-                        maxsum=-1
-                    else:
-                        
-                        for k in range(j+1,len(nums2)):
-                            if nums2[k]>nums2[j] :
-                                maxnum=nums2[k]
-                                break
-                            else :
-                                maxnum=-1
+                    for k in range(j+1,len(nums2)):
+                        if nums2[k]>nums2[j] :
+                            maxnum=nums2[k]
+                            break
             ans.append(maxnum)
         return ans
             
