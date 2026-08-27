@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/aishwarya426/dsa-hub/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/aishwarya426/dsa-hub/tree/master/0739-daily-temperatures) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aishwarya426/dsa-hub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aishwarya426/dsa-hub/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/aishwarya426/dsa-hub/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/aishwarya426/dsa-hub/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
