@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/aishwarya426/dsa-hub/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aishwarya426/dsa-hub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aishwarya426/dsa-hub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya426/dsa-hub/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aishwarya426/dsa-hub/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aishwarya426/dsa-hub/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
