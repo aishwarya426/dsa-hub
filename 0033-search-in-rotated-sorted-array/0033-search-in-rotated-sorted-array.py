@@ -6,8 +6,14 @@ class Solution:
             mid=(i+j)//2
             if nums[mid]==target:
                 return mid
-            elif target in nums[i:mid]:
-                j=mid-1
+            if nums[i]<=nums[mid]:
+                if nums[i]<=target<nums[mid]:
+                    j=mid-1
+                else:
+                    i=mid+1
             else:
-                i=mid+1
+                if nums[mid]<target<=nums[j]:
+                    i=mid+1
+                else:
+                    j=mid-1
         return -1
