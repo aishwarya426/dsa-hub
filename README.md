@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aishwarya426/dsa-hub/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/aishwarya426/dsa-hub/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aishwarya426/dsa-hub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aishwarya426/dsa-hub/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/aishwarya426/dsa-hub/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aishwarya426/dsa-hub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
