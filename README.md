@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aishwarya426/dsa-hub/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/aishwarya426/dsa-hub/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aishwarya426/dsa-hub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/aishwarya426/dsa-hub/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/aishwarya426/dsa-hub/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
