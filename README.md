@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aishwarya426/dsa-hub/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/aishwarya426/dsa-hub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya426/dsa-hub/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aishwarya426/dsa-hub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aishwarya426/dsa-hub/tree/master/0344-reverse-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aishwarya426/dsa-hub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
