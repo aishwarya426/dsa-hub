@@ -13,7 +13,7 @@ class Solution:
 
         slow=n
         fast=n
-        while True:
+        while fast!=1:
             slow=self.summ(slow)
             fast=self.summ(self.summ(fast))
             if slow==1 or fast==1:
