@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/aishwarya426/dsa-hub/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/aishwarya426/dsa-hub/tree/master/0643-maximum-average-subarray-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aishwarya426/dsa-hub/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aishwarya426/dsa-hub/tree/master/0876-middle-of-the-linked-list) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aishwarya426/dsa-hub/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/aishwarya426/dsa-hub/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/aishwarya426/dsa-hub/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aishwarya426/dsa-hub/tree/master/0875-koko-eating-bananas) |
@@ -189,4 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aishwarya426/dsa-hub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
