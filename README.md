@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aishwarya426/dsa-hub/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aishwarya426/dsa-hub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/aishwarya426/dsa-hub/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aishwarya426/dsa-hub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aishwarya426/dsa-hub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/aishwarya426/dsa-hub/tree/master/1539-kth-missing-positive-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya426/dsa-hub/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aishwarya426/dsa-hub/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
