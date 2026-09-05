@@ -16,11 +16,12 @@ class Solution:
         while True:
             slow=self.summ(slow)
             fast=self.summ(self.summ(fast))
-            if slow==fast:
+            if slow==1 or fast==1:
+                return True
+            elif slow==fast:
                 return False
             
-            elif slow==1 or fast==1:
-                return True
+            
 
         
         
