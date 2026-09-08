@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
+| [3870-count-commas-in-range](https://github.com/aishwarya426/dsa-hub/tree/master/3870-count-commas-in-range) |
 ## Monotonic Stack
 |  |
 | ------- |
