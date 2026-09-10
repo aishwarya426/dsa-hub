@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aishwarya426/dsa-hub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya426/dsa-hub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aishwarya426/dsa-hub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya426/dsa-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aishwarya426/dsa-hub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aishwarya426/dsa-hub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/aishwarya426/dsa-hub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/aishwarya426/dsa-hub/tree/master/3870-count-commas-in-range) |
 ## Monotonic Stack
