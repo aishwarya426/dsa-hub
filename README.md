@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aishwarya426/dsa-hub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aishwarya426/dsa-hub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/aishwarya426/dsa-hub/tree/master/1539-kth-missing-positive-number) |
+| [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/aishwarya426/dsa-hub/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aishwarya426/dsa-hub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/aishwarya426/dsa-hub/tree/master/1539-kth-missing-positive-number) |
+| [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -231,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aishwarya426/dsa-hub/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/aishwarya426/dsa-hub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aishwarya426/dsa-hub/tree/master/0206-reverse-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
