@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aishwarya426/dsa-hub/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aishwarya426/dsa-hub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aishwarya426/dsa-hub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aishwarya426/dsa-hub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/aishwarya426/dsa-hub/tree/master/1539-kth-missing-positive-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya426/dsa-hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aishwarya426/dsa-hub/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aishwarya426/dsa-hub/tree/master/0410-split-array-largest-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aishwarya426/dsa-hub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
