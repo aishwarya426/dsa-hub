@@ -10,6 +10,7 @@ class Solution:
             return []
         queue=deque([root])
         res=[]
+        flag=0
         while queue:
             length=len(queue)
             currlevel=[]
@@ -20,18 +21,12 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            res.append(currlevel)
-            length=len(queue)
-            currlevel=[]
-            for i in range(length):
-                node=queue.popleft()
-                currlevel.append(node.val)
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-            if len(currlevel)!=0:
+            if flag==0:
+                res.append(currlevel)
+            else:
                 res.append(currlevel[::-1])
+            flag=not flag
+            
         return res
 
 
