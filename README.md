@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya426/dsa-hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aishwarya426/dsa-hub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aishwarya426/dsa-hub/tree/master/0202-happy-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aishwarya426/dsa-hub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aishwarya426/dsa-hub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/aishwarya426/dsa-hub/tree/master/3870-count-commas-in-range) |
 ## Monotonic Stack
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0700-search-in-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aishwarya426/dsa-hub/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
