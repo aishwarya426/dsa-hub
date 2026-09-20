@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/aishwarya426/dsa-hub/tree/master/0981-time-based-key-value-store) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aishwarya426/dsa-hub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishwarya426/dsa-hub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/aishwarya426/dsa-hub/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/aishwarya426/dsa-hub/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aishwarya426/dsa-hub/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
