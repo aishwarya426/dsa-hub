@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aishwarya426/dsa-hub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aishwarya426/dsa-hub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/aishwarya426/dsa-hub/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/aishwarya426/dsa-hub/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aishwarya426/dsa-hub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aishwarya426/dsa-hub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aishwarya426/dsa-hub/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aishwarya426/dsa-hub/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/aishwarya426/dsa-hub/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aishwarya426/dsa-hub/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aishwarya426/dsa-hub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aishwarya426/dsa-hub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Combinatorics
 |  |
 | ------- |
@@ -352,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aishwarya426/dsa-hub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishwarya426/dsa-hub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Geometry
 |  |
