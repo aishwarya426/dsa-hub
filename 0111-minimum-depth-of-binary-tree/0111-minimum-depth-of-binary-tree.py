@@ -8,12 +8,10 @@ class Solution:
     def minDepth(self, root: TreeNode | None) -> int:
         if root==None:
             return 0
-        left=self.minDepth(root.left)
-        right=self.minDepth(root.right)
-        if left==0 and right!=0:
-            return 1+right
-        elif left!=0 and right==0:
-            return 1+left
+        if root.left==None and root.right!=None:
+            return 1+self.minDepth(root.right)
+        elif root.left!=None and root.right==None:
+            return 1+self.minDepth(root.left)
         else:
-            return 1+min(left,right)
+            return 1+min(self.minDepth(root.left),self.minDepth(root.right))
         
